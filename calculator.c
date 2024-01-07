@@ -3,11 +3,11 @@ int main()
 {
 	char op;
 	int a,b;
-	printf("enter an operator(+), (-),(*),(/) :");
+	printf("Enter an operator(+), (-),(*),(/) :");
 	scanf("%c", &op);
-	printf("enter the value of a : ");
+	printf("Enter the value of a : ");
 	scanf("%d", &a);
-	printf("enter the value of b : ");
+	printf("Enter the value of b : ");
 	scanf("%d", &b);
 	switch (op)
 	{
